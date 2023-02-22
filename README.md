@@ -14,7 +14,10 @@
 
     <img width="491" alt="image" src="https://user-images.githubusercontent.com/46857249/220585579-a804a691-8432-42e4-a297-6c27e08b622b.png">
     
-7. whenever an ip will change it will notify and give the new ip.
+7. whenever an ip will change it will give a desktop notification and give the new ip.
+
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/46857249/220590144-f9a36034-da1a-4f71-956d-2cbd7d460308.png">
+
 
 7. To stop just enter ```CTRL +C```
 
