@@ -2,7 +2,8 @@
 ## To Run this:
 1. Download the code and save it on your system (as .py File)
 2. install the packages 
-    - Socket
+    - Socket (pip install socket)
+    - plyer (pip install plyer)
 3. Open command prompt on the saved location. 
 4. Type `python filename.y`
 5. Enter the DNS/Server name
